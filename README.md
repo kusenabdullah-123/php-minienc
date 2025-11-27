@@ -27,6 +27,3 @@ Ini adalah inti dari Loader yang Anda finalisasi (versi tanpa debug).
 
 
 ### 4. Dokumentasi (`README.md`)
-
-
-Anda sekarang memiliki proyek yang terstruktur dan siap untuk diunggah ke GitHub, lengkap dengan instruksi yang detail untuk kompilasi dan penggunaan.
